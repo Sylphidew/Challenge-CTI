@@ -1,0 +1,95 @@
+Received: from 185.241.208.73 (22.ip.gl.ply.gg [185.241.208.73])
+        by mx.recipientdomain.com (Postfix) with ESMTP id 12345ABCDEF
+        for <peggy@lafandekermit.com>; Mon, 09 Dec 2024 12:34:56 +0100 (CET)
+Received: from officialkermit.com (22.ip.gl.ply.gg [185.241.208.73])
+        by 22.ip.gl.ply.gg (ESMTP) with ESMTP id 98765ZYXWV
+        for <peggy@lafandekermit.com>; Mon, 09 Dec 2024 12:34:45 +0100 (CET)
+From: "Kermit The Frog" <kermit@officialkermit.com>
+To: <peggy@lafandekermit.com>
+Subject: 🎉 Félicitations ! Passez une journée avec Kermit la Grenouille ! 🐸
+Date: Mon, 09 Dec 2024 12:34:56 +0100
+Message-ID: <20241209-123456@officialkermit.com>
+Content-Type: text/html; charset=UTF-8
+Return-Path: <kermit@officialkermit.com>
+
+<html>
+<head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f9f9f9;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        max-width: 600px;
+        margin: auto;
+        background: #ffffff;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+        padding: 20px;
+        text-align: center;
+    }
+    .header {
+        background-color: #8bc34a;
+        color: white;
+        padding: 10px 0;
+        border-radius: 8px 8px 0 0;
+    }
+    .header h1 {
+        margin: 0;
+        font-size: 24px;
+    }
+    .content img {
+        max-width: 100%;
+        border-radius: 8px;
+    }
+    .content p {
+        color: #555555;
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .button {
+        display: inline-block;
+        background-color: #ff5722;
+        color: white;
+        text-decoration: none;
+        padding: 10px 20px;
+        border-radius: 4px;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    .footer {
+        margin-top: 20px;
+        font-size: 12px;
+        color: #999999;
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🐸 Gagnez une journée exclusive avec Kermit ! 🎉</h1>
+        </div>
+        <div class="content">
+            <img src="https://res.cloudinary.com/dudhe24uu/image/upload/v1733766750/Challenge%20CTI/Case%201%20-%20Fichier%20eml/etyxayfm3qqhbscafsnq.jpg" alt="Kermit vous invite">
+            <p>
+                Bonjour cher(e) fan de Kermit, <br><br>
+                Nous sommes ravis de vous informer que vous avez été sélectionné(e) pour
+                passer une journée exceptionnelle avec Kermit la grenouille ! Une 
+                occasion unique de découvrir l'univers du Muppet Show avec notre
+                star préférée. 🌟
+            </p>
+            <p>
+                Cliquez sur le bouton ci-dessous pour réserver votre place et découvrir
+                les détails de cet événement incroyable.
+            </p>
+            <a href="https://http://216.122.187.249:55123/" class="button">Réservez votre journée</a>
+        </div>
+        <div class="footer">
+            Cet email est envoyé par <b>Kermit Official Fans</b>. Si vous pensez avoir
+            reçu cet email par erreur, veuillez ignorer ce message.
+        </div>
+    </div>
+</body>
+</html>
